@@ -153,3 +153,10 @@ margin-bottom: auto;
     width: 200px;
     height: 200px;
 }
+
+#tagline{
+    margin-left: 55px;
+    color: #f7a306;
+    font-weight: bolder;
+    font-style: italic;
+}
