@@ -1,0 +1,155 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+
+
+}
+#tcolor{
+    color: #0c8f45;
+}
+
+    
+
+}
+#map{
+    padding-bottom:10px ;
+}
+
+.map{
+  margin-top: 30px;
+}
+
+   
+
+.contact-content{
+    height: 700px;
+}
+
+#contact{
+    height: 100px;
+    width: unset;
+}
+.map-1{
+    height: 300px;
+    widows: 100px;
+}
+
+
+
+.offer-zone1{
+    height: 95%;
+    width: 68%;
+    margin-top: 30px;}
+
+.wapp{
+    width: 150px;
+    height: 50px;
+    color: rgb(255, 255, 255);
+    background-color: #0c8f45;
+    border: none;
+}
+
+.welcome-section{
+    height: 700px;
+    margin-top: 30px;
+}
+.amenities{
+    margin ;
+}
+
+#amenities{
+
+    font-size: 20px;
+    font-weight: bold;
+}
+#cards{
+     margin-top:30px ;
+}
+
+  
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #0c8f45;
+    color: white;
+    text-align: center;
+    height: 60px;
+    
+    
+ }
+
+ .btn{
+    background-color: #0c8f45;
+    color: white;
+    border: 1px solid;
+    margin-top: 17px;
+ }
+ .offer-content{
+     height: 150px;
+ }
+
+ #fontindex{
+     font-size:12px ;
+ }
+ #foot{
+     height: 30px;
+     font-size:10px ;
+     padding-bottom:4px ;
+    
+ }
+ #fb{
+     height: 45px;
+  
+ }
+
+
+
+
+
+#crlimg{
+    margin-left: 20%;
+}
+
+
+
+
+
+
+.row {
+   
+    margin-right: 0px;
+    margin-left:0px;
+}
+
+
+
+#fb-btn{
+    margin-top: 10px;
+}
+ 
+
+.customer{
+    height: auto;
+    width: 100%;
+    background:#009640;
+    margin-top: 50px;
+    color: white;
+    margin: 0;
+    padding: 20px;
+
+}
+
+#testimonial{
+font-style: italic;
+font-size:12px;
+padding: 20px;
+margin-bottom: auto;
+}
+
+.gallery{
+    width: 200px;
+    height: 200px;
+}
